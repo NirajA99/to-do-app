@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "sonam",
+      "email": "gupta03@gmail.com",
+      "password": "bewafa",
+      "id": 1
+    },
+    {
+      "name": "akshay",
+      "email": "aks123@gmail.com",
+      "password": "php",
+      "id": 2
+    },
+    {
+      "name": "khan",
+      "email": "khan123@gmail.com",
+      "password": "srk",
+      "id": 3
+    },
+    {
+      "name": "katoch",
+      "email": "katoch02@gmail.com",
+      "password": "admin",
+      "id": 4
+    },
+    {
+      "name": "aryan",
+      "email": "neeraj@gmail.com",
+      "password": "noob",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "title": "task-3",
+      "userId": 2,
+      "ModifiedOn": "Fri Nov 17 2023 17:39:43 GMT+0530 (India Standard Time)",
+      "description": "update task ",
+      "localDate": "2023-12-02T20:39",
+      "id": 13
+    },
+    {
+      "title": "task-3",
+      "userId": 2,
+      "ModifiedOn": "Fri Nov 17 2023 17:39:43 GMT+0530 (India Standard Time)",
+      "description": "update task ",
+      "localDate": "2023-12-02T20:39",
+      "id": 14
+    },
+    {
+      "title": "task-1",
+      "userId": 4,
+      "ModifiedOn": "Mon Nov 20 2023 17:21:36 GMT+0530 (India Standard Time)",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, exercitationem possimus.",
+      "localDate": "2023-11-10T20:21",
+      "id": 17
+    },
+    {
+      "title": "task-2",
+      "userId": 4,
+      "ModifiedOn": "Mon Nov 20 2023 17:23:31 GMT+0530 (India Standard Time)",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, exercitationem possimus quidem reprehenderit enim magni. Ad soluta dolore blanditiis illum.cnknsdfnciosdhcdsa",
+      "localDate": "2023-11-16T18:23",
+      "id": 18
+    },
+    {
+      "title": "task-1",
+      "userId": 1,
+      "ModifiedOn": "Wed Nov 22 2023 22:26:16 GMT+0530 (India Standard Time)",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nam consectetur nesciunt totam sint expedita modi aliquid obcaecati eius delectus assumenda suscipit, officia quibusdam? Unde, exercitationem voluptatem dolore fugit fuga non laborum quidem soluta. Consectetur eaque sed totam harum distinctio quasi ipsa, voluptates iure accusantium officiis quibusdam quidem quis quae necessitatibus veritatis corrupti assumenda eos reprehenderit. Odit ullam deserunt ex ut dignissimos enim molestiae error exercitationem quia eos et, itaque nostrum explicabo blanditiis, nulla quas ipsa dicta alias? Nesciunt, rerum.",
+      "localDate": "2023-11-22T22:31",
+      "id": 19
+    },
+    {
+      "title": "task-1",
+      "userId": 1,
+      "ModifiedOn": "Sun Nov 26 2023 13:23:19 GMT+0530 (India Standard Time)",
+      "description": "orem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nam consectetur nesciunt totam sint expedita modi aliquid obcaecati eius delectus assumenda suscipit, officia quibusdam? Unde, exercitationem voluptatem dolore fugit fuga non laborum quidem soluta. Consectetur eaque sed totam harum distinctio quasi ipsa, voluptates iure accusantium officiis quibusdam quidem quis quae necessitatibus veritatis corrupti assumenda eos reprehenderit. Odit ullam deserunt ex ut dignissimos enim molestiae error exercitationem quia eos et, itaque nostrum explicabo blanditiis, nulla quas ipsa dicta alias? Nesciunt, rerum.\nUpdated On : 22 Nov 2023 10:26 PM",
+      "localDate": "2023-11-23T16:23",
+      "id": 20
+    }
+  ]
+}
